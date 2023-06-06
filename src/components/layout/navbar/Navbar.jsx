@@ -17,18 +17,18 @@ import { ShoppingCart } from "@mui/icons-material";
 
 const navLinks = [
   {
-    title: "Home",
+    title: "INICIO",
     path: "#",
     icon: <InboxIcon />,
   },
   {
-    title: "Login",
+    title: "LOGIN",
     path: "#login",
     icon: <DraftsIcon />,
   },
   {
-    title: "Register",
-    path: "#register",
+    title: "REGISTRO",
+    path: "#registo",
     icon: <EditNoteIcon />,
   },
 ];
